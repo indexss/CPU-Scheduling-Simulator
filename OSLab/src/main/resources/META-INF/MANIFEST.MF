@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: me.indexss.Simulation
+Class-Path: flatlaf-intellij-themes-3.0.jar flatlaf-3.0.jar
+
